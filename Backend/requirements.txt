@@ -1,0 +1,1 @@
+aiohttp aiosignal anyio async-timeout attrs boto3 botocore certifi charset-normalizer click fastapi frozenlist h11 httptools idna jmespath multidict openai pydantic python-dateutil python-decouple python-dotenv python-multipart PyYAML requests s3transfer six sniffio starlette tqdm typing_extensions urllib3 uvicorn uvloop watchfiles websockets yarl 
